@@ -4,8 +4,8 @@ Note|Description
 :----|:----
 Initial macOS Support|OS X 10.11, El Capitan.
 
-- Opencore version: 0.8.6
-- Release date: 07/11/2022
+- Opencore version: 0.8.7
+- Release date: 06/12/2022 (late a day)
 
 # Basic Steps
 
